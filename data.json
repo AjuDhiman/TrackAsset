@@ -1,0 +1,723 @@
+[
+  {
+    "name": "R&D",
+    "size": 10434,
+    "parent_value": "R&D",
+    "parent_key": 0,
+    "children": [
+      {
+        "name": "Clinical",
+        "size": 235,
+        "parent_value": "R&D",
+        "parent_key": 1,
+        "primary_key": 3,
+        "children": [
+          {
+            "name": "ETMF",
+            "size": 235,
+            "parent_value": "Clinical",
+            "parent_key": 3,
+            "primary_key": 10,
+            "children": [
+              {
+                "name": "Europe Union",
+                "size": 2,
+                "parent_value": "ETMF",
+                "parent_key": 10,
+                "primary_key": 56
+              },
+              {
+                "name": "Germany",
+                "size": 1,
+                "parent_value": "ETMF",
+                "parent_key": 10,
+                "primary_key": 57
+              },
+              {
+                "name": "Japan",
+                "size": 200,
+                "parent_value": "ETMF",
+                "parent_key": 10,
+                "primary_key": 58
+              },
+              {
+                "name": "United States",
+                "size": 32,
+                "parent_value": "ETMF",
+                "parent_key": 10,
+                "primary_key": 59
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Compliance",
+        "size": 6632,
+        "parent_value": "R&D",
+        "parent_key": 1,
+        "primary_key": 4,
+        "children": [
+          {
+            "name": "CW",
+            "size": 2837,
+            "parent_value": "Compliance",
+            "parent_key": 4,
+            "primary_key": 11,
+            "children": [
+              {
+                "name": "Australia",
+                "size": 18,
+                "parent_value": "CW",
+                "parent_key": 11,
+                "primary_key": 33
+              },
+              {
+                "name": "Canada",
+                "size": 142,
+                "parent_value": "CW",
+                "parent_key": 11,
+                "primary_key": 34
+              },
+              {
+                "name": "China",
+                "size": 2,
+                "parent_value": "CW",
+                "parent_key": 11,
+                "primary_key": 35
+              },
+              {
+                "name": "Czech Republic",
+                "size": 110,
+                "parent_value": "CW",
+                "parent_key": 11,
+                "primary_key": 36
+              },
+              {
+                "name": "Denmark",
+                "size": 5,
+                "parent_value": "CW",
+                "parent_key": 11,
+                "primary_key": 37
+              },
+              {
+                "name": "Deutschland",
+                "size": 94,
+                "parent_value": "CW",
+                "parent_key": 11,
+                "primary_key": 38
+              },
+              {
+                "name": "Europe Union",
+                "size": 329,
+                "parent_value": "CW",
+                "parent_key": 11,
+                "primary_key": 39
+              },
+              {
+                "name": "Finland",
+                "size": 3,
+                "parent_value": "CW",
+                "parent_key": 11,
+                "primary_key": 40
+              },
+              {
+                "name": "France",
+                "size": 95,
+                "parent_value": "CW",
+                "parent_key": 11,
+                "primary_key": 41
+              },
+              {
+                "name": "Germany",
+                "size": 1,
+                "parent_value": "CW",
+                "parent_key": 11,
+                "primary_key": 42
+              },
+              {
+                "name": "Italy",
+                "size": 81,
+                "parent_value": "CW",
+                "parent_key": 11,
+                "primary_key": 43
+              },
+              {
+                "name": "Japan",
+                "size": 1290,
+                "parent_value": "CW",
+                "parent_key": 11,
+                "primary_key": 44
+              },
+              {
+                "name": "Norway",
+                "size": 5,
+                "parent_value": "CW",
+                "parent_key": 11,
+                "primary_key": 45
+              },
+              {
+                "name": "Singapore",
+                "size": 7,
+                "parent_value": "CW",
+                "parent_key": 11,
+                "primary_key": 46
+              },
+              {
+                "name": "South Korea",
+                "size": 20,
+                "parent_value": "CW",
+                "parent_key": 11,
+                "primary_key": 47
+              },
+              {
+                "name": "Spain",
+                "size": 112,
+                "parent_value": "CW",
+                "parent_key": 11,
+                "primary_key": 48
+              },
+              {
+                "name": "Sweden",
+                "size": 48,
+                "parent_value": "CW",
+                "parent_key": 11,
+                "primary_key": 49
+              },
+              {
+                "name": "Switzerland",
+                "size": 27,
+                "parent_value": "CW",
+                "parent_key": 11,
+                "primary_key": 50
+              },
+              {
+                "name": "United Kingdom",
+                "size": 56,
+                "parent_value": "CW",
+                "parent_key": 11,
+                "primary_key": 51
+              },
+              {
+                "name": "United States",
+                "size": 392,
+                "parent_value": "CW",
+                "parent_key": 11,
+                "primary_key": 52
+              }
+            ]
+          },
+          {
+            "name": "ELEARN",
+            "size": 3795,
+            "parent_value": "Compliance",
+            "parent_key": 4,
+            "primary_key": 12,
+            "children": [
+              {
+                "name": "Canada",
+                "size": 143,
+                "parent_value": "ELEARN",
+                "parent_key": 12,
+                "primary_key": 53
+              },
+              {
+                "name": "Japan",
+                "size": 1,
+                "parent_value": "ELEARN",
+                "parent_key": 12,
+                "primary_key": 54
+              },
+              {
+                "name": "United States",
+                "size": 3651,
+                "parent_value": "ELEARN",
+                "parent_key": 12,
+                "primary_key": 55
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "GCSDW",
+        "size": 111,
+        "parent_value": "R&D",
+        "parent_key": 1,
+        "primary_key": 5,
+        "children": null
+      },
+      {
+        "name": "Project Server",
+        "size": 225,
+        "parent_value": "R&D",
+        "parent_key": 1,
+        "primary_key": 6,
+        "children": [
+          {
+            "name": "PS",
+            "size": 225,
+            "parent_value": "Project Server",
+            "parent_key": 6,
+            "primary_key": 14,
+            "children": [
+              {
+                "name": "Japan",
+                "size": 76,
+                "parent_value": "PS",
+                "parent_key": 14,
+                "primary_key": 88
+              },
+              {
+                "name": "United States",
+                "size": 149,
+                "parent_value": "PS",
+                "parent_key": 14,
+                "primary_key": 89
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Quality",
+        "size": 815,
+        "parent_value": "R&D",
+        "parent_key": 1,
+        "primary_key": 7,
+        "children": [
+          {
+            "name": "TW",
+            "size": 815,
+            "parent_value": "Quality",
+            "parent_key": 7,
+            "primary_key": 15,
+            "children": [
+              {
+                "name": "Australia",
+                "size": 1,
+                "parent_value": "TW",
+                "parent_key": 15,
+                "primary_key": 95
+              },
+              {
+                "name": "Canada",
+                "size": 8,
+                "parent_value": "TW",
+                "parent_key": 15,
+                "primary_key": 96
+              },
+              {
+                "name": "Deutschland",
+                "size": 5,
+                "parent_value": "TW",
+                "parent_key": 15,
+                "primary_key": 97
+              },
+              {
+                "name": "Europe Union",
+                "size": 73,
+                "parent_value": "TW",
+                "parent_key": 15,
+                "primary_key": 98
+              },
+              {
+                "name": "France",
+                "size": 3,
+                "parent_value": "TW",
+                "parent_key": 15,
+                "primary_key": 99
+              },
+              {
+                "name": "Germany",
+                "size": 2,
+                "parent_value": "TW",
+                "parent_key": 15,
+                "primary_key": 100
+              },
+              {
+                "name": "Italy",
+                "size": 2,
+                "parent_value": "TW",
+                "parent_key": 15,
+                "primary_key": 101
+              },
+              {
+                "name": "Japan",
+                "size": 452,
+                "parent_value": "TW",
+                "parent_key": 15,
+                "primary_key": 102
+              },
+              {
+                "name": "South Korea",
+                "size": 6,
+                "parent_value": "TW",
+                "parent_key": 15,
+                "primary_key": 103
+              },
+              {
+                "name": "Spain",
+                "size": 3,
+                "parent_value": "TW",
+                "parent_key": 15,
+                "primary_key": 104
+              },
+              {
+                "name": "Sweden",
+                "size": 4,
+                "parent_value": "TW",
+                "parent_key": 15,
+                "primary_key": 105
+              },
+              {
+                "name": "Switzerland",
+                "size": 2,
+                "parent_value": "TW",
+                "parent_key": 15,
+                "primary_key": 106
+              },
+              {
+                "name": "United Kingdom",
+                "size": 3,
+                "parent_value": "TW",
+                "parent_key": 15,
+                "primary_key": 107
+              },
+              {
+                "name": "United States",
+                "size": 251,
+                "parent_value": "TW",
+                "parent_key": 15,
+                "primary_key": 108
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Regulatory",
+        "size": 2416,
+        "parent_value": "R&D",
+        "parent_key": 1,
+        "primary_key": 8,
+        "children": [
+          {
+            "name": "CREDO",
+            "size": 1238,
+            "parent_value": "Regulatory",
+            "parent_key": 8,
+            "primary_key": 16,
+            "children": [
+              {
+                "name": "Canada",
+                "size": 7,
+                "parent_value": "CREDO",
+                "parent_key": 16,
+                "primary_key": 22
+              },
+              {
+                "name": "China",
+                "size": 1,
+                "parent_value": "CREDO",
+                "parent_key": 16,
+                "primary_key": 23
+              },
+              {
+                "name": "Czech Republic",
+                "size": 2,
+                "parent_value": "CREDO",
+                "parent_key": 16,
+                "primary_key": 24
+              },
+              {
+                "name": "Europe Union",
+                "size": 53,
+                "parent_value": "CREDO",
+                "parent_key": 16,
+                "primary_key": 25
+              },
+              {
+                "name": "Germany",
+                "size": 1,
+                "parent_value": "CREDO",
+                "parent_key": 16,
+                "primary_key": 26
+              },
+              {
+                "name": "Japan",
+                "size": 526,
+                "parent_value": "CREDO",
+                "parent_key": 16,
+                "primary_key": 27
+              },
+              {
+                "name": "Singapore",
+                "size": 3,
+                "parent_value": "CREDO",
+                "parent_key": 16,
+                "primary_key": 28
+              },
+              {
+                "name": "South Korea",
+                "size": 7,
+                "parent_value": "CREDO",
+                "parent_key": 16,
+                "primary_key": 29
+              },
+              {
+                "name": "Spain",
+                "size": 1,
+                "parent_value": "CREDO",
+                "parent_key": 16,
+                "primary_key": 30
+              },
+              {
+                "name": "Switzerland",
+                "size": 1,
+                "parent_value": "CREDO",
+                "parent_key": 16,
+                "primary_key": 31
+              },
+              {
+                "name": "United States",
+                "size": 636,
+                "parent_value": "CREDO",
+                "parent_key": 16,
+                "primary_key": 32
+              }
+            ]
+          },
+          {
+            "name": "GQEDMS",
+            "size": 898,
+            "parent_value": "Regulatory",
+            "parent_key": 8,
+            "primary_key": 17,
+            "children": [
+              {
+                "name": "Canada",
+                "size": 23,
+                "parent_value": "GQEDMS",
+                "parent_key": 17,
+                "primary_key": 67
+              },
+              {
+                "name": "Czech Republic",
+                "size": 2,
+                "parent_value": "GQEDMS",
+                "parent_key": 17,
+                "primary_key": 68
+              },
+              {
+                "name": "Deutschland",
+                "size": 10,
+                "parent_value": "GQEDMS",
+                "parent_key": 17,
+                "primary_key": 69
+              },
+              {
+                "name": "Europe Union",
+                "size": 115,
+                "parent_value": "GQEDMS",
+                "parent_key": 17,
+                "primary_key": 70
+              },
+              {
+                "name": "France",
+                "size": 29,
+                "parent_value": "GQEDMS",
+                "parent_key": 17,
+                "primary_key": 71
+              },
+              {
+                "name": "Italy",
+                "size": 14,
+                "parent_value": "GQEDMS",
+                "parent_key": 17,
+                "primary_key": 72
+              },
+              {
+                "name": "Japan",
+                "size": 100,
+                "parent_value": "GQEDMS",
+                "parent_key": 17,
+                "primary_key": 73
+              },
+              {
+                "name": "South Korea",
+                "size": 4,
+                "parent_value": "GQEDMS",
+                "parent_key": 17,
+                "primary_key": 74
+              },
+              {
+                "name": "Spain",
+                "size": 9,
+                "parent_value": "GQEDMS",
+                "parent_key": 17,
+                "primary_key": 75
+              },
+              {
+                "name": "Sweden",
+                "size": 9,
+                "parent_value": "GQEDMS",
+                "parent_key": 17,
+                "primary_key": 76
+              },
+              {
+                "name": "Switzerland",
+                "size": 7,
+                "parent_value": "GQEDMS",
+                "parent_key": 17,
+                "primary_key": 77
+              },
+              {
+                "name": "United Kingdom",
+                "size": 11,
+                "parent_value": "GQEDMS",
+                "parent_key": 17,
+                "primary_key": 78
+              },
+              {
+                "name": "United States",
+                "size": 565,
+                "parent_value": "GQEDMS",
+                "parent_key": 17,
+                "primary_key": 79
+              }
+            ]
+          },
+          {
+            "name": "IP",
+            "size": 37,
+            "parent_value": "Regulatory",
+            "parent_key": 8,
+            "primary_key": 18,
+            "children": [
+              {
+                "name": "United States",
+                "size": 37,
+                "parent_value": "IP",
+                "parent_key": 18,
+                "primary_key": 80
+              }
+            ]
+          },
+          {
+            "name": "IRM",
+            "size": 21,
+            "parent_value": "Regulatory",
+            "parent_key": 8,
+            "primary_key": 19,
+            "children": [
+              {
+                "name": "Europe Union",
+                "size": 2,
+                "parent_value": "IRM",
+                "parent_key": 19,
+                "primary_key": 81
+              },
+              {
+                "name": "Japan",
+                "size": 7,
+                "parent_value": "IRM",
+                "parent_key": 19,
+                "primary_key": 82
+              },
+              {
+                "name": "United States",
+                "size": 12,
+                "parent_value": "IRM",
+                "parent_key": 19,
+                "primary_key": 83
+              }
+            ]
+          },
+          {
+            "name": "ORIOM",
+            "size": 110,
+            "parent_value": "Regulatory",
+            "parent_key": 8,
+            "primary_key": 20,
+            "children": [
+              {
+                "name": "Canada",
+                "size": 3,
+                "parent_value": "ORIOM",
+                "parent_key": 20,
+                "primary_key": 84
+              },
+              {
+                "name": "Europe Union",
+                "size": 11,
+                "parent_value": "ORIOM",
+                "parent_key": 20,
+                "primary_key": 85
+              },
+              {
+                "name": "Japan",
+                "size": 66,
+                "parent_value": "ORIOM",
+                "parent_key": 20,
+                "primary_key": 86
+              },
+              {
+                "name": "United States",
+                "size": 30,
+                "parent_value": "ORIOM",
+                "parent_key": 20,
+                "primary_key": 87
+              }
+            ]
+          },
+          {
+            "name": "TRSV",
+            "size": 112,
+            "parent_value": "Regulatory",
+            "parent_key": 8,
+            "primary_key": 21,
+            "children": [
+              {
+                "name": "Canada",
+                "size": 6,
+                "parent_value": "TRSV",
+                "parent_key": 21,
+                "primary_key": 90
+              },
+              {
+                "name": "Europe Union",
+                "size": 12,
+                "parent_value": "TRSV",
+                "parent_key": 21,
+                "primary_key": 91
+              },
+              {
+                "name": "Japan",
+                "size": 20,
+                "parent_value": "TRSV",
+                "parent_key": 21,
+                "primary_key": 92
+              },
+              {
+                "name": "Switzerland",
+                "size": 1,
+                "parent_value": "TRSV",
+                "parent_key": 21,
+                "primary_key": 93
+              },
+              {
+                "name": "United States",
+                "size": 73,
+                "parent_value": "TRSV",
+                "parent_key": 21,
+                "primary_key": 94
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "primary_key": 1
+  }
+]
